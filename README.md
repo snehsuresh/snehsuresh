@@ -1,4 +1,11 @@
 ## Hi there 👋
+I'm Sneh, a data scientist and software engineer with 4 years of experience. Currently, I'm pursuing a Master of Science degree at the University of Massachusetts Dartmouth, fuelled by my passion for programming, math, and problem-solving.
+
+In my tech career, I've seen various challenges, from Python scripting, backend coding to developing full-stack applications and leveraging AWS for scalable solutions. I thrive on staying at the forefront of technology trends and enjoy adapting to new tools and methodologies.
+
+Teaching has been an enriching part of my journey, allowing me to share knowledge, mentor budding developers, and strengthen my own expertise. Outside of tech, sports and gaming are my other passions. They teach me strategy, discipline, and teamwork, which I apply to my work and everyday life.
+
+My current pursuit of an MS in Data Science marries my interests perfectly. I'm learning machine learning, data analysis, and predictive modeling to address real-world challenges. Let's connect and explore ways to collaborate or simply chat about tech. Feel free to reach out, I'm here to engage, learn, and grow with like-minded professionals!
 
 <!--
 **snehsuresh/snehsuresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
