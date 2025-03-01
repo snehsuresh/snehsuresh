@@ -41,11 +41,5 @@ When I’m not being an absolute nerd, you’ll find me:
 - 🏋️‍♂ Hitting the gym - **Current bests**: Bench 250, Squat 330, Deadlift 400. 
 - 🎮 Gaming - FPS and strategy games like **Titanfall**, **Halo**, and yes - I still enjoy **Black Ops 2** like it’s 2012.
 
-## 📫 Let’s Connect!  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/sneh-pillai)  
-- 📧 snehpillai02@gmail.com  
-- 🌐 [Portfolio](https://snehpillai.vercel.app/)
-
 Want to collaborate on a cool project? Curious about my research? Or just want to geek out over tech, games, or fitness?  
 **Feel free to drop a message - I’m always up for conversations!**
