@@ -35,27 +35,27 @@ Currently, I’m pursuing my **Master’s in Data Science** at **UMass Dartmouth
 
 ## 🌱 What I'm Currently Exploring  
 
-✅ Building a **domain-agnostic chatbot** that dynamically adapts to selected domains via **generative distilled models**.  
-✅ Exploring **Neural Volatility Forecasting** — combining time series modeling and deep learning to predict market volatility with higher accuracy.
-✅ Designing **custom loss functions** for better multimodal alignment in **LLMs**.  
-✅ Experimenting with **Neuro-Symbolic Reasoning in LLMs** — blending symbolic logic with deep learning to improve reasoning and commonsense understanding.  
+- Building a **domain-agnostic chatbot** that dynamically adapts to selected domains via **generative distilled models**.  
+- Exploring **Neural Volatility Forecasting** — combining time series modeling and deep learning to predict market volatility with higher accuracy.
+- Designing **custom loss functions** for better multimodal alignment in **LLMs**.  
+- Experimenting with **Neuro-Symbolic Reasoning in LLMs** — blending symbolic logic with deep learning to improve reasoning and commonsense understanding.  
 
 ---
 
 ## Beyond Tech  
 
 When I’m not being an absolute nerd, you’ll find me:  
-⚽ Following sports — Wrestling, NBA, cricket, and NASCAR.
-🏋️‍♂️ Hitting the gym — 5 days a week, chasing PRs: **Bench 250**, **Squat 330**, **Deadlift 400**. 
-🎮 🎮 Gaming — FPS and strategy games like **Titanfall**, **Halo**, and yes — I still enjoy **Black Ops 2** like it’s 2012.
+- 🏏 Following sports — Wrestling, NBA, cricket, and NASCAR.
+- 🏋️‍♂ Hitting the gym — 5 days a week, chasing PRs: **Bench 250**, **Squat 330**, **Deadlift 400**. 
+- 🎮 Gaming — FPS and strategy games like **Titanfall**, **Halo**, and yes — I still enjoy **Black Ops 2** like it’s 2012.
 
 ---
 
 ## 📫 Let’s Connect!  
 
-💼 [LinkedIn](https://www.linkedin.com/in/sneh-pillai)  
-📧 [Email] (snehpillai02@gmail.com)  
-🌐 [Portfolio] (https://snehpillai.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sneh-pillai)  
+- 📧 [Email] (snehpillai02@gmail.com)  
+- 🌐 [Portfolio] (https://snehpillai.vercel.app/)
 
 ---
 
