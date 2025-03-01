@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Sneh Pillai!
+# 👋 Hey there
 
 I'm Sneh, a **Data Scientist** and **Software Engineer** with 4+ years of experience across **data science, machine learning, software engineering**, and **ML/Cybersecurity research**. My journey has been a blend of **backend engineering, predictive modeling, cloud computing**, and **LLM robustness research**, driven by my deep love for **programming, math, and problem-solving**.
 
