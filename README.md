@@ -38,7 +38,7 @@ Currently, I’m pursuing my **Master’s in Data Science** at **UMass Dartmouth
 
 When I’m not being an absolute nerd, you’ll find me:  
 - 🏏 Following sports - Wrestling, NBA, cricket, and NASCAR.
-- 🏋️‍♂ Hitting the gym - 5 days a week, chasing PRs: **Bench 250**, **Squat 330**, **Deadlift 400**. 
+- 🏋️‍♂ Hitting the gym - **Current bests**: Bench 250, Squat 330, Deadlift 400. 
 - 🎮 Gaming - FPS and strategy games like **Titanfall**, **Halo**, and yes - I still enjoy **Black Ops 2** like it’s 2012.
 
 ## 📫 Let’s Connect!  
