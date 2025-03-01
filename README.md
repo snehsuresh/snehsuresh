@@ -1,23 +1,63 @@
-## Hi there 👋
-I'm Sneh, a data scientist and software engineer with 4 years of experience. Currently, I'm pursuing a Master of Science degree at the University of Massachusetts Dartmouth, fuelled by my passion for programming, math, and problem-solving.
+# 👋 Hey there, I'm Sneh Pillai!
 
-In my tech career, I've seen various challenges, from Python scripting, backend coding to developing full-stack applications and utilizing cloud platforms like AWS for scalable solutions. I thrive on staying at the forefront of technology trends and enjoy adapting to new tools and methodologies.
+### 💻 Data Scientist | Software Engineer | Researcher  
+**Master of Science in Data Science @ University of Massachusetts Dartmouth**
 
-Teaching has been an enriching part of my journey, allowing me to share knowledge, mentor budding developers, and strengthen my own expertise. Outside of tech, sports and gaming are my other passions. They teach me strategy, discipline, and teamwork, which I apply to my work and everyday life.
 
-My current pursuit of an MS in Data Science marries my interests perfectly. I'm learning machine learning, data analysis, and predictive modeling to address real-world challenges. Let's connect and explore ways to collaborate or simply chat about tech. Feel free to reach out, I'm here to engage, learn, and grow with like-minded professionals!
+I'm Sneh, a **Data Scientist** and **Software Engineer** with 4+ years of experience across **data science, machine learning, software engineering**, and **ML/Cybersecurity research**. My journey has been a blend of **backend engineering, predictive modeling, cloud computing**, and **LLM robustness research**, driven by my deep love for **programming, math, and problem-solving**.
 
-<!--
-**snehsuresh/snehsuresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I’m pursuing my **Master’s in Data Science** at **UMass Dartmouth**, where I work as a **Graduate Research Assistant**, exploring the fascinating intersection of **large language models, adversarial robustness, and multimodal learning**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I Do  
+
+🔧 **Machine Learning & Data Science:**  
+- Demand Forecasting, Predictive Modeling, and Player Retention Analysis  
+- Building **domain-agnostic chatbots** with knowledge distillation and hardware-aware adaptation  
+- Enhancing **LLM robustness** using techniques like **Sparse Autoencoders (SAEs)** to detect and mitigate **backdoor attacks** in **Pythia-160M** and **LLaMA2-13B**  
+
+💻 **Software Development:**  
+- Full-stack application development using Python, FastAPI, and React  
+- Scalable cloud deployments on **AWS** (EC2, Lambda, S3, RDS)  
+- Backend development focusing on **performance optimization and modular design**
+
+🔬 **Research:**  
+- Multimodal LLMs — building frameworks that dynamically **align textual and visual embeddings** for coherent contextual understanding  
+- Designing novel **loss functions** for balanced multimodal learning  
+- Exploring **adversarial robustness** and **anomaly detection** in generative models
+
+👨‍🏫 **Mentoring & Teaching:**  
+- I love **mentoring budding developers** — whether it's Python scripting, backend coding, or building software and machine learning concepts  
+- Teaching not only helps others but **reinforces my own knowledge**. Contact me @snehpillai02@gmal.com  
+
+---
+
+## 🌱 What I'm Currently Exploring  
+
+✅ Building a **domain-agnostic chatbot** that dynamically adapts to selected domains via **generative distilled models**.  
+✅ Exploring **Neural Volatility Forecasting** — combining time series modeling and deep learning to predict market volatility with higher accuracy.
+✅ Designing **custom loss functions** for better multimodal alignment in **LLMs**.  
+✅ Experimenting with **Neuro-Symbolic Reasoning in LLMs** — blending symbolic logic with deep learning to improve reasoning and commonsense understanding.  
+
+---
+
+## Beyond Tech  
+
+When I’m not being an absolute nerd, you’ll find me:  
+⚽ Following sports — Wrestling, NBA, cricket, and NASCAR.
+🏋️‍♂️ Hitting the gym — 5 days a week, chasing PRs: **Bench 250**, **Squat 330**, **Deadlift 400**. 
+🎮 🎮 Gaming — FPS and strategy games like **Titanfall**, **Halo**, and yes — I still enjoy **Black Ops 2** like it’s 2012.
+
+---
+
+## 📫 Let’s Connect!  
+
+💼 [LinkedIn](https://www.linkedin.com/in/sneh-pillai)  
+📧 [Email] (snehpillai02@gmail.com)  
+🌐 [Portfolio] (https://snehpillai.vercel.app/)
+
+---
+
+Want to collaborate on a cool project? Curious about my research? Or just want to geek out over tech, games, or fitness?  
+**Feel free to drop a message — I’m always up for conversations!**
