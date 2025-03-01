@@ -7,8 +7,8 @@ Currently, I’m pursuing my **Master’s in Data Science** at **UMass Dartmouth
 
 ## What I'm Currently Exploring  
 
-- Building a **domain-agnostic chatbot** that dynamically adapts to selected domains via **generative distilled models**.  
 - Exploring **Neural Volatility Forecasting** - combining time series modeling and deep learning to predict market volatility with higher accuracy.
+- Building a **domain-agnostic chatbot** that dynamically adapts to selected domains via **generative distilled models**.  
 - Designing **custom loss functions** for better multimodal alignment in **LLMs**.  
 - Experimenting with **Neuro-Symbolic Reasoning in LLMs** - blending symbolic logic with deep learning to improve reasoning and commonsense understanding.  
 
