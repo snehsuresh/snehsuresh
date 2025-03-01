@@ -15,9 +15,9 @@ Currently, I’m pursuing my **Master’s in Data Science** at **UMass Dartmouth
 ## 💡 What I Do  
 
 🔧 **Machine Learning & Data Science:**  
-- Demand Forecasting, Predictive Modeling, and Player Retention Analysis  
-- Building **domain-agnostic chatbots** with knowledge distillation and hardware-aware adaptation  
-- Enhancing **LLM robustness** using techniques like **Sparse Autoencoders (SAEs)** to detect and mitigate **backdoor attacks** in **Pythia-160M** and **LLaMA2-13B**  
+- Demand Forecasting, Predictive Modeling, and Player Retention Analysis.  
+- Building **domain-agnostic chatbots** with knowledge distillation and hardware-aware adaptation.  
+- Enhancing **LLM robustness** using novel techniques to detect and mitigate **backdoor attacks** in SOTA LLM models.
 
 💻 **Software Development:**  
 - Full-stack application development using Python, FastAPI, and React  
