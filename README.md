@@ -8,9 +8,9 @@ Currently, I’m pursuing my **Master’s in Data Science** at **UMass Dartmouth
 ## What I'm Currently Exploring  
 
 - Building a **domain-agnostic chatbot** that dynamically adapts to selected domains via **generative distilled models**.  
-- Exploring **Neural Volatility Forecasting** — combining time series modeling and deep learning to predict market volatility with higher accuracy.
+- Exploring **Neural Volatility Forecasting** - combining time series modeling and deep learning to predict market volatility with higher accuracy.
 - Designing **custom loss functions** for better multimodal alignment in **LLMs**.  
-- Experimenting with **Neuro-Symbolic Reasoning in LLMs** — blending symbolic logic with deep learning to improve reasoning and commonsense understanding.  
+- Experimenting with **Neuro-Symbolic Reasoning in LLMs** - blending symbolic logic with deep learning to improve reasoning and commonsense understanding.  
 
 ## 💡 What I Do  
 
@@ -25,20 +25,20 @@ Currently, I’m pursuing my **Master’s in Data Science** at **UMass Dartmouth
 - Backend development focusing on **performance optimization and modular design**
 
 🔬 **Research:**  
-- Multimodal LLMs — building frameworks that dynamically **align textual and visual embeddings** for coherent contextual understanding  
+- Multimodal LLMs - building frameworks that dynamically **align textual and visual embeddings** for coherent contextual understanding  
 - Designing novel **loss functions** for balanced multimodal learning  
 - Exploring **adversarial robustness** and **anomaly detection** in generative models
 
 👨‍🏫 **Mentoring & Teaching:**  
-- I love **mentoring budding developers** — whether it's Python scripting, backend coding, or building software and machine learning concepts  
+- I love **mentoring budding developers** - whether it's Python scripting, backend coding, or building software and machine learning concepts  
 - Teaching not only helps others but **reinforces my own knowledge**. Contact me @snehpillai02@gmal.com  
 
 ## Beyond Tech  
 
 When I’m not being an absolute nerd, you’ll find me:  
-- 🏏 Following sports — Wrestling, NBA, cricket, and NASCAR.
-- 🏋️‍♂ Hitting the gym — 5 days a week, chasing PRs: **Bench 250**, **Squat 330**, **Deadlift 400**. 
-- 🎮 Gaming — FPS and strategy games like **Titanfall**, **Halo**, and yes — I still enjoy **Black Ops 2** like it’s 2012.
+- 🏏 Following sports - Wrestling, NBA, cricket, and NASCAR.
+- 🏋️‍♂ Hitting the gym - 5 days a week, chasing PRs: **Bench 250**, **Squat 330**, **Deadlift 400**. 
+- 🎮 Gaming - FPS and strategy games like **Titanfall**, **Halo**, and yes - I still enjoy **Black Ops 2** like it’s 2012.
 
 ## 📫 Let’s Connect!  
 
@@ -47,4 +47,4 @@ When I’m not being an absolute nerd, you’ll find me:
 - 🌐 [Portfolio](https://snehpillai.vercel.app/)
 
 Want to collaborate on a cool project? Curious about my research? Or just want to geek out over tech, games, or fitness?  
-**Feel free to drop a message — I’m always up for conversations!**
+**Feel free to drop a message - I’m always up for conversations!**
