@@ -1,6 +1,6 @@
 # 👋 Hey there
 
-I'm Sneh, a **Data Scientist** and **Software Engineer** with 7 years of hands-on across **data science, machine learning, software engineering**, and **ML/Cybersecurity research**. My journey has been a blend of **backend engineering, predictive modeling, cloud computing**, and **LLM robustness research**, driven by my curiosity and love for **programming, math, and problem-solving**.
+I'm Sneh, a Data Scientist and Software Engineer with 7 years of hands-on across **data science, machine learning, software engineering**, and **ML/Cybersecurity research**. My journey has been a blend of **backend engineering, predictive modeling, cloud computing**, and **LLM robustness research**, driven by my curiosity and love for **programming, math, and problem-solving**.
 
 Currently, I’m pursuing my **Master’s in Data Science** at **UMass Dartmouth**, where I work as a **Graduate Research Assistant**, exploring the fascinating intersection of **large language models, adversarial robustness, and multimodal learning**.
 
