@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Sneh, a data scientist and software engineer with 4 years of experience. Currently, I'm pursuing a Master of Science degree at the University of Massachusetts Dartmouth, fuelled by my passion for programming, math, and problem-solving.
 
-In my tech career, I've seen various challenges, from Python scripting, backend coding to developing full-stack applications and leveraging AWS for scalable solutions. I thrive on staying at the forefront of technology trends and enjoy adapting to new tools and methodologies.
+In my tech career, I've seen various challenges, from Python scripting, backend coding to developing full-stack applications and utilizing cloud platforms like AWS for scalable solutions. I thrive on staying at the forefront of technology trends and enjoy adapting to new tools and methodologies.
 
 Teaching has been an enriching part of my journey, allowing me to share knowledge, mentor budding developers, and strengthen my own expertise. Outside of tech, sports and gaming are my other passions. They teach me strategy, discipline, and teamwork, which I apply to my work and everyday life.
 
