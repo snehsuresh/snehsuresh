@@ -1,14 +1,16 @@
 # 👋 Hey there, I'm Sneh Pillai!
 
-### 💻 Data Scientist | Software Engineer | Researcher  
-**Master of Science in Data Science @ University of Massachusetts Dartmouth**
-
-
 I'm Sneh, a **Data Scientist** and **Software Engineer** with 4+ years of experience across **data science, machine learning, software engineering**, and **ML/Cybersecurity research**. My journey has been a blend of **backend engineering, predictive modeling, cloud computing**, and **LLM robustness research**, driven by my deep love for **programming, math, and problem-solving**.
 
 Currently, I’m pursuing my **Master’s in Data Science** at **UMass Dartmouth**, where I work as a **Graduate Research Assistant**, exploring the fascinating intersection of **large language models, adversarial robustness, and multimodal learning**.
 
----
+
+## What I'm Currently Exploring  
+
+- Building a **domain-agnostic chatbot** that dynamically adapts to selected domains via **generative distilled models**.  
+- Exploring **Neural Volatility Forecasting** — combining time series modeling and deep learning to predict market volatility with higher accuracy.
+- Designing **custom loss functions** for better multimodal alignment in **LLMs**.  
+- Experimenting with **Neuro-Symbolic Reasoning in LLMs** — blending symbolic logic with deep learning to improve reasoning and commonsense understanding.  
 
 ## 💡 What I Do  
 
@@ -31,17 +33,6 @@ Currently, I’m pursuing my **Master’s in Data Science** at **UMass Dartmouth
 - I love **mentoring budding developers** — whether it's Python scripting, backend coding, or building software and machine learning concepts  
 - Teaching not only helps others but **reinforces my own knowledge**. Contact me @snehpillai02@gmal.com  
 
----
-
-## 🌱 What I'm Currently Exploring  
-
-- Building a **domain-agnostic chatbot** that dynamically adapts to selected domains via **generative distilled models**.  
-- Exploring **Neural Volatility Forecasting** — combining time series modeling and deep learning to predict market volatility with higher accuracy.
-- Designing **custom loss functions** for better multimodal alignment in **LLMs**.  
-- Experimenting with **Neuro-Symbolic Reasoning in LLMs** — blending symbolic logic with deep learning to improve reasoning and commonsense understanding.  
-
----
-
 ## Beyond Tech  
 
 When I’m not being an absolute nerd, you’ll find me:  
@@ -49,15 +40,11 @@ When I’m not being an absolute nerd, you’ll find me:
 - 🏋️‍♂ Hitting the gym — 5 days a week, chasing PRs: **Bench 250**, **Squat 330**, **Deadlift 400**. 
 - 🎮 Gaming — FPS and strategy games like **Titanfall**, **Halo**, and yes — I still enjoy **Black Ops 2** like it’s 2012.
 
----
-
 ## 📫 Let’s Connect!  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sneh-pillai)  
-- 📧 [Email] (snehpillai02@gmail.com)  
-- 🌐 [Portfolio] (https://snehpillai.vercel.app/)
-
----
+- 📧 snehpillai02@gmail.com  
+- 🌐 [Portfolio](https://snehpillai.vercel.app/)
 
 Want to collaborate on a cool project? Curious about my research? Or just want to geek out over tech, games, or fitness?  
 **Feel free to drop a message — I’m always up for conversations!**
