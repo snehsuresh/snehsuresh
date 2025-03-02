@@ -32,7 +32,7 @@ Currently, I’m pursuing my **Master’s in Data Science** at **UMass Dartmouth
 
 👨‍🏫 **Mentoring & Teaching:**  
 - I love **mentoring budding engineers** - whether it's Python scripting, backend coding, or building software and machine learning concepts  
-- Teaching not only helps others but **reinforces my own knowledge**. Contact me @snehpillai02@gmal.com  
+- Teaching not only helps others but **reinforces my own knowledge**. Contact me @snehpillai02@gmail.com  
 
 ## Beyond Tech  
 
